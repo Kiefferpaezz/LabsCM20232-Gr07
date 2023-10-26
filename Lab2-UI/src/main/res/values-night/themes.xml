@@ -13,5 +13,7 @@
   the License.
   -->
 <resources>
-    <color name="shadow_5">#ff4b30ed</color>
+
+    <style name="Theme.Material.DayNight.NoActionBar" parent="@android:style/Theme.Material.NoActionBar" />
+
 </resources>
